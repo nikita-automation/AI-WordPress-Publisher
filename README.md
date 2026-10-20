@@ -1,5 +1,7 @@
 # AI WordPress Publisher
 
+> **Kurz auf Deutsch:** Automatisierung, die aus ausgewählten Quellen (RSS oder strukturierte Inhalte) mit OpenAI Artikelentwürfe samt Metadaten und Bild erzeugt und über die WordPress REST API als Entwurf oder Beitrag anlegt, wahlweise mit redaktioneller Prüfung.
+
 AI WordPress Publisher is an automation project for turning selected content inputs into WordPress drafts or published posts. The workflow combines RSS or structured content sources, OpenAI, image generation, and WordPress REST API integration through n8n or Make.com.
 
 ## Business Problem
@@ -108,3 +110,6 @@ The workflow export is located inside:
 workflows/workflow.json
 ```
 
+---
+
+**Autor:** Nikita Rozumnyi · KI-Automatisierung für Unternehmen · [nikita-automation.de](https://nikita-automation.de) · [LinkedIn](https://www.linkedin.com/in/nikita-rozumniy) · [alle Projekte](https://github.com/nikita-automation)
